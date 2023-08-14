@@ -173,7 +173,7 @@ Why do we do this?
 4. **Text Search:** Enables searching for specific words or patterns.
 5. **NLP:** Fundamental for natural language processing tasks.
 
-You’ll see it’s importance in action in step 7 when we begin to categorize our data. But for now, you can tokenize the data using the following code. Remember to install it in your terminal or command center (if you don’t have it installed) using:
+You’ll see it’s importance in action when we begin to categorize our data. But for now, you can tokenize the data using the following code. Remember to install it in your terminal or command center (if you don’t have it installed) using:
 
 ```bash
 pip install nltk
