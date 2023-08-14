@@ -268,7 +268,7 @@ But most dirty datasets don’t come with readme files. So I will ignore it for 
 
 Instead I asked ChatGPT to create common categories and their associated keywords for news articles in the US. If you aren’t familiar with ChatGPT, here are some resources that can help:
 
-[Mastering ChatGPT: Beginner Friendly Resources to Unlock the Power of Language Models](Beginner-Friendly%20Python%20Text%20Cleaning%20Project%206594a3755826495f94b3137e4c626cae/Mastering%20ChatGPT%20Beginner%20Friendly%20Resources%20to%20U%2048e8271264cc4b81a990c38441645c99.md)
+[Mastering ChatGPT: Beginner Friendly Resources to Unlock the Power of Language Models](https://github.com/stremyjo/News-Categorization-Project-Using-Python/blob/7e12b61f6b0d60f34ce54dce73855cc81b997fb9/Mastering%20ChatGPT%20Beginner%20Friendly%20Resources%20to%20U%2048e8271264cc4b81a990c38441645c99.md)
 
 **This is the list it created:** 
 
@@ -306,7 +306,7 @@ category_keywords = {
 
 In this step, we're building a tool that automatically categorizes news articles. We've chosen specific words related to different topics, like "politics," "sports," and "technology." Our tool checks the words in each news headline and puts the article in the category with the most related words. This makes it easier for us to understand what each article is about. It's like having an assistant that quickly sorts news articles into baskets labeled with the main topic of the article.
 
-[Detailed explanation of this function if you want to learn more](Beginner-Friendly%20Python%20Text%20Cleaning%20Project%206594a3755826495f94b3137e4c626cae/Detailed%20explanation%20of%20this%20function%20if%20you%20want%20%201ae29abd361d4edf849721ebb94f5cad.md)
+[Detailed explanation of this function if you want to learn more](https://github.com/stremyjo/News-Categorization-Project-Using-Python/blob/7e12b61f6b0d60f34ce54dce73855cc81b997fb9/Detailed%20explanation%20of%20this%20function%20if%20you%20want%20%201ae29abd361d4edf849721ebb94f5cad.md)
 
 ```python
 # Function for categorization
@@ -451,7 +451,6 @@ weighted avg       0.95      0.95      0.93    207803
 ```
 
 [Model Evaluation Results](https://github.com/stremyjo/News-Categorization-Project-Using-Python/blob/7ada6b03b853160cfd248f0e691853c7eb933f7e/Model%20Evaluation%20Results%20ba7869a18e454319b68c33e12d2f1218.md)
-
 # [Optional] Step 13: Let's Use our New Model to categorize our second news article.
 
 First, let's preprocess and feature-extract the new dataset as we did the first one earlier. This data set is in the same dataset file that we downloaded in the first step. This file is called '2pageSessions.csv'.
