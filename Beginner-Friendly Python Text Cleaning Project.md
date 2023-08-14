@@ -353,7 +353,7 @@ data.to_csv('output.csv', index=False)
 
 We have our news article dataset organized into categories. Now, let's build a model.
 
-# **Step 12: Model Building and Evaluation**
+# **Step 13: Model Building and Evaluation**
 
 Finally in this last step, we're building a "news article categorization machine." Let's break it down:
 
@@ -451,7 +451,7 @@ weighted avg       0.95      0.95      0.93    207803
 ```
 
 [Model Evaluation Results](https://github.com/stremyjo/News-Categorization-Project-Using-Python/blob/7ada6b03b853160cfd248f0e691853c7eb933f7e/Model%20Evaluation%20Results%20ba7869a18e454319b68c33e12d2f1218.md)
-# [Optional] Step 13: Let's Use our New Model to categorize our second news article.
+# [Optional] Step 14: Let's Use our New Model to categorize our second news article.
 
 First, let's preprocess and feature-extract the new dataset as we did the first one earlier. This data set is in the same dataset file that we downloaded in the first step. This file is called '2pageSessions.csv'.
 
