@@ -264,7 +264,7 @@ This downloaded dataset comes with a readme file that provides the following inf
 
 But most dirty datasets don’t come with readme files. So I will ignore it for my walkthrough of this project, but I have provided the relevant read me section here:
 
-[Read Me](bb9120a8fb6b4f4082cd1ac899a3dd99.md)
+[Read Me](Read Me bb9120a8fb6b4f4082cd1ac899a3dd99.md)
 
 Instead I asked ChatGPT to create common categories and their associated keywords for news articles in the US. If you aren’t familiar with ChatGPT, here are some resources that can help:
 
